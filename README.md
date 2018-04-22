@@ -1,5 +1,5 @@
 # ideasfest18
-##Uber-like app for matching victims of disaster zones with responders and volunteers
+## Uber-like app for matching victims of disaster zones with responders and volunteers
 
 
 
