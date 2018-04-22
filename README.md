@@ -5,3 +5,5 @@
 
 ## ideasfest.py - victims side of app
 ## responder.py - responders side of app
+
+helpapp.db opened with SQLite3
