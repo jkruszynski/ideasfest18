@@ -1,9 +1,10 @@
-# ideasfest18
-## Uber-like app for matching victims of disaster zones with responders and volunteers
+## ideasfest18
+# Uber-like app for matching victims of disaster zones with responders and volunteers
 
 
 
-## ideasfest.py - victims side of app
-## responder.py - responders side of app
+ideasfest.py - victims side of app
+
+responder.py - responders side of app
 
 helpapp.db opened with SQLite3
